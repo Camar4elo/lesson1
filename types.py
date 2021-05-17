@@ -29,16 +29,6 @@
 # # del list[index]
 # list.remove("Python")
 # print(list)
-# weather = {"city": "Москва", "temperature": "20"}
-# print(weather["city"])
-# a = int(weather.get("temperature"))
-# a = str(a - 5)
-# weather["temperature"] = a
-# print(weather)
-# print(weather.get('country', "Россия"))
-# weather["date"] = "27.05.2019"
-# print(weather)
-# print(len(weather))
 def get_summ(one, two, delimetr ='&'):
     string_1 = str(one)
     string_2 = str(two)
